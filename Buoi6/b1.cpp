@@ -13,6 +13,7 @@ int main(){
             cout<<"*";
         }
         cout<<endl;
+        //hhghg
     }
     return 0;
 }
